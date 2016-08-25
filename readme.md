@@ -45,7 +45,7 @@ Weekly Homework
 | \#       | Assignment | Class Topic | Due Date |
 | :------: | ---------- | ----------- | -------- |
 | 1        | `bottlesOfBeer.js`, `randAddressGenerator.js` | Conditionals & Loops | Monday, August 22nd |
-| 2        |  `hubot.js`          | In-class lab | TBD |
+| 2        | [Instructions](https://gist.github.com/Borgaard/2e53738c56891f1572209e360f71c969) for `hubot`. | In-class lab | Monday, August 29th |
 | 3        |            | - | - |
 | ...      |            | - | - |
 
